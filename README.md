@@ -31,7 +31,7 @@ Una aplicación fullstack moderna para gestionar y hacer seguimiento de hábitos
 
 ### 1. Clona el repositorio
 
-git clone https://github.com/santiagourdaneta/App-de-Seguimiento-de-H-bitos-/
+git clone https://github.com/santiagourdaneta/App-de-Seguimiento-de-Habitos/
 cd habit-tracker-app
 
 ## 2. Configura el frontend
